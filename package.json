@@ -1,0 +1,19 @@
+{
+  "name": "loadwithoutclusters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "withoutClusters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infantjoseph/LoadWithoutClusters.git"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infantjoseph/LoadWithoutClusters/issues"
+  },
+  "homepage": "https://github.com/infantjoseph/LoadWithoutClusters#readme"
+}
